@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Badges-URBE/precache-manifest.92c8a80faf09047c66d0311df5762e56.js"
+  "/Badges-URBE/precache-manifest.1961b55717584e5fcdcebf195192609a.js"
 );
 
 workbox.clientsClaim();

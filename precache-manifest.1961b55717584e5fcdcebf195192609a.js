@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "04de87afc8025fc72b5b",
+    "revision": "ab0ab8e503574d1c098c",
     "url": "/Badges-URBE/static/css/main.ca552502.chunk.css"
   },
   {
-    "revision": "04de87afc8025fc72b5b",
-    "url": "/Badges-URBE/static/js/main.04de87af.chunk.js"
+    "revision": "ab0ab8e503574d1c098c",
+    "url": "/Badges-URBE/static/js/main.ab0ab8e5.chunk.js"
   },
   {
     "revision": "892dc28f444793c140cc",
     "url": "/Badges-URBE/static/js/runtime~main.892dc28f.js"
   },
   {
-    "revision": "b4d40afc1afb481f78c2",
+    "revision": "2d59105ecac1eb336ca2",
     "url": "/Badges-URBE/static/css/2.e371f24c.chunk.css"
   },
   {
-    "revision": "b4d40afc1afb481f78c2",
-    "url": "/Badges-URBE/static/js/2.b4d40afc.chunk.js"
+    "revision": "2d59105ecac1eb336ca2",
+    "url": "/Badges-URBE/static/js/2.2d59105e.chunk.js"
   },
   {
     "revision": "0ebe208297b3920c8927950d451abe82",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Badges-URBE/static/media/stars.1d17360a.svg"
   },
   {
-    "revision": "0492f9f5146e855577a4cbc4e07925cd",
+    "revision": "14889389b4b693f0256b68826cb7d411",
     "url": "/Badges-URBE/index.html"
   }
 ];
